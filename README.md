@@ -1,2 +1,1 @@
 GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador.
-Para realizar un Pull Request, se debe proporcionar la siguiente información: Repositorio de origen, Rama de origen, Repositorio de destino, Rama de destino.
